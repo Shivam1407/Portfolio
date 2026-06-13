@@ -1,0 +1,11 @@
+first i have to learn gsap and usse phle jo bhi use hua hoga
+gsap for animation and using useRef
+learn how click on navigation bar reach to scrolling the page.
+project image change to your own
+write experience as qtn count on leetcode
+logo icons of company replaced by logo icons of tech stack you learned/or the platform you used to solve problems.
+learn how we made logos moving 
+learn how we hover on card and they show different colors, learn the mathematics and coding applied at there.
+learn how gsap used here for various things and learn about gsap used to scrolller of experience
+gsap used for the animation of block appears from left 
+gsap used for timeline and gsap used for text fade away and comes along with time line in right side of experience section 
